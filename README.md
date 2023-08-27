@@ -1,3 +1,3 @@
 # C Language repository
 
-## *This repository contains codes for the C language course from apna college.*
+## *This repository contains codes for the C language course.*
